@@ -62,24 +62,42 @@ header{
 /* ------------ */
 /* css section ps5 main */
 
-.box_ps5{
-    background-color: red;
-    height: 150px;
+.color_text_ps5{
+    color: #0273ce;
 }
 
-.box_img_ps5{
-    background-color: blue;
-    height: 50px;
-    display: inline-block;
+.btn_color_ps5{
+    background-color: #2d64e6;
+}
+
+.img_ps5{
+    width: 100%;
+}
+
+.box_thumb{
     width: calc((100% / 3) - 0.19rem);
+}
+
+.img_thumb{
+    filter: opacity(0.5);
+    width: 100%;
+}
+
+.fa-trademark{
+    font-size: 0.5rem;
+    vertical-align: super;
 }
 
 @media all and (min-width:768px) {
 
-    .box_img_ps5{
+    .box_thumb{
         width: calc((100% / 5) - 0.23rem);
     }
     
+    .img_thumb {
+        width: 40%;
+    }
+
 }
 
 /* --------------- */
