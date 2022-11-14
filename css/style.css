@@ -180,9 +180,12 @@ header{
 }
 
 
-.box_now {
-    background-color: red;
-    height: 150px;
+.img_now{
+    width: 60%;
+}
+
+.img_now_banner{
+    width: 100%;
 }
 
 /* ----------- */
