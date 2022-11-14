@@ -37,3 +37,28 @@ header{
     background-color: blue;
     height: 100px;
 }
+
+/* ------------ */
+/* css section ps5 main */
+
+.box_ps5{
+    background-color: red;
+    height: 150px;
+}
+
+.box_img_ps5{
+    background-color: blue;
+    height: 50px;
+    display: inline-block;
+    width: calc((100% / 3) - 0.19rem);
+}
+
+@media all and (min-width:768px) {
+
+    .box_img_ps5{
+        width: calc((100% / 5) - 0.23rem);
+    }
+    
+}
+
+/* --------------- */
