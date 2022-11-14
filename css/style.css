@@ -103,3 +103,15 @@ header{
 }
 
 /* ------- */
+
+.playstation_now {
+    background-color: #161c3b;
+}
+
+
+.box_now {
+    background-color: red;
+    height: 150px;
+}
+
+/* ----------- */
