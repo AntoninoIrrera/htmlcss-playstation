@@ -74,9 +74,22 @@ header{
 }
 
 /* ------------ */
-/* section ps4 main */
+/* css section ps4 main */
 
 .box_ps4 {
     background-color: red;
+    height: 150px;
+}
+
+/* -------- */
+/* css section playstation plus main */
+
+.playstation_plus{
+    background-color: #bebcbb;
+}
+
+
+.box_plus{
+    background-color: blue;
     height: 150px;
 }
