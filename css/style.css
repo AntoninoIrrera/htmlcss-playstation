@@ -72,3 +72,11 @@ header{
     background-color: lightgreen;
     height: 50px;
 }
+
+/* ------------ */
+/* section ps4 main */
+
+.box_ps4 {
+    background-color: red;
+    height: 150px;
+}
