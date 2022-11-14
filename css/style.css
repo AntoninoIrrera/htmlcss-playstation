@@ -146,11 +146,20 @@ header{
     background-color: #bebcbb;
 }
 
-
-.box_plus{
-    background-color: blue;
-    height: 150px;
+.img_plus{
+    width: 60%;;
 }
+
+.img_plus_banner{
+    width: 100%;
+}
+
+.btn_color_plus{
+    background-color: #d9dadc;
+    color: #2d64e6;
+}
+
+
 
 /* --------- */
 /* css section discounts main */
