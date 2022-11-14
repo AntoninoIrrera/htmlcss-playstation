@@ -55,9 +55,8 @@ header{
 /* -------------- */
 /* css section card grid main */
 
-.box_card{
-    background-color: blue;
-    height: 100px;
+.img_card{
+    width: 100%;
 }
 
 /* ------------ */
