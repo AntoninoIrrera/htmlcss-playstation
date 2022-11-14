@@ -131,12 +131,17 @@ header{
     vertical-align: super;
 }
 
-.height_p{
-    height: 75px;
-}
 
 .img_ps4{
     width: 100%;
+}
+
+@media all and (min-width:768px) {
+
+    .height_p{
+        height: 75px;
+    }
+  
 }
 
 /* -------- */
@@ -164,9 +169,8 @@ header{
 /* --------- */
 /* css section discounts main */
 
-.box_discounts{
-    background-color: red;
-    height: 100px;
+.img_discounts{
+    width: 100%;
 }
 
 /* ------- */
