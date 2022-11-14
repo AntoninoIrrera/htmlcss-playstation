@@ -101,6 +101,19 @@ header{
 }
 
 /* --------------- */
+/* css section banner main */
+.banner{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.img_banner{
+    width: 60%;
+}
+
+
+
 /* css section new games main */
 .new_games{
     background-color: #1f1f1f;
