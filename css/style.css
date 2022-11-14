@@ -23,7 +23,7 @@ header{
     cursor: pointer;
 }
 
-.btn_color{
+.btn_color_header{
     background-color: #363636;
 }
 
@@ -38,14 +38,20 @@ header{
 /* css section jumbo main */
 
 .jumbo{
-    background-color: gray;
-    height: 60vh;
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 75vh;
 }
 
-.box_jumbo{
-    background-color: red;
-    height: 50px;
+.banner_returnal{
+    width: 50%;
 }
+
+.btn_color_jumbo{
+    background-color: #cd3d0f;
+}
+
 /* -------------- */
 /* css section card grid main */
 
