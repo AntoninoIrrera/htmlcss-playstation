@@ -1,0 +1,32 @@
+/* css generale font */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    font-family: Helvetica, sans-serif;  
+}
+
+/* css header */
+.navbar_up{
+    background-color: #000000;
+    height: 25px;
+}
+
+.navbar_down{
+    background-color: red;
+    height: 75px;
+}
+
+/* ------------- */
+/* css section jumbo main */
+
+.jumbo{
+    background-color: gray;
+    height: 60vh;
+}
+
+.box_jumbo{
+    background-color: red;
+    height: 50px;
+}
