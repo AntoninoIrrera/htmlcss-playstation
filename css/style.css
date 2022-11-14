@@ -211,9 +211,25 @@ header{
     background-color: #00439c;
 }
 
-.box_footer{
-    background-color: red;
-    height: 250px;
+.img_logo_footer{
+    width: 104px;
+}
+
+.img_language{
+    width: 20px;
+}
+
+.img_sie_logo{
+    width: 140px;
+}
+
+ul{
+    list-style-type: none;
+    color: white;
+}
+
+li{
+    margin: 0.3rem 0;
 }
 
 /* ------------------- */
