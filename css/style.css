@@ -10,13 +10,29 @@ header{
 /* css header */
 .navbar_up{
     background-color: #000000;
-    height: 25px;
+    text-align: end;
+    padding: 0.5rem;
 }
 
-.navbar_down{
-    background-color: red;
-    height: 75px;
+.logo_sony{
+    width: 100px;
 }
+
+.fa-magnifying-glass{
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.btn_color{
+    background-color: #363636;
+}
+
+
+.fa-angle-down{
+    color: gray;
+    font-size: 0.8rem;
+}
+
 
 /* ------------- */
 /* css section jumbo main */
