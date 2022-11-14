@@ -126,9 +126,17 @@ header{
 /* ------------ */
 /* css section ps4 main */
 
-.box_ps4 {
-    background-color: red;
-    height: 150px;
+.fa-registered{
+    font-size: 0.9rem;
+    vertical-align: super;
+}
+
+.height_p{
+    height: 75px;
+}
+
+.img_ps4{
+    width: 100%;
 }
 
 /* -------- */
