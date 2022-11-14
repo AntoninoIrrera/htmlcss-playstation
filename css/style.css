@@ -30,3 +30,10 @@ header{
     background-color: red;
     height: 50px;
 }
+/* -------------- */
+/* css section card grid main */
+
+.box_card{
+    background-color: blue;
+    height: 100px;
+}
