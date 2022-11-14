@@ -62,3 +62,13 @@ header{
 }
 
 /* --------------- */
+/* css section new games main */
+.new_games{
+    background-color: #1f1f1f;
+    
+}
+
+.box_game{
+    background-color: lightgreen;
+    height: 50px;
+}
