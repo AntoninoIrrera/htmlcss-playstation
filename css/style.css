@@ -122,3 +122,17 @@ header{
     background-color: blue;
     height: 75px;
 }
+
+/* --------------- */
+
+/* css footer */
+
+.footer{
+    background-color: #00439c;
+}
+
+.box_footer{
+    background-color: red;
+    height: 250px;
+}
+
