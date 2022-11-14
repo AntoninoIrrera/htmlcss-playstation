@@ -115,3 +115,10 @@ header{
 }
 
 /* ----------- */
+
+/* css section social media main */
+
+.box_social{
+    background-color: blue;
+    height: 75px;
+}
