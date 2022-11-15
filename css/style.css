@@ -101,6 +101,22 @@ div.col-6.col-sm-4.col-lg-2.g-4>img:hover{
     border: 2px solid blue;
 }
 
+.card_grid{
+    height: 520px;
+}
+
+@media all and (min-width:576px) {
+    .card_grid{
+        height: 390px;
+    }
+}
+
+@media all and (min-width:992px) {
+    .card_grid {
+        height: 200px;
+    }
+}
+
 
 
 /* ------------ */
@@ -120,6 +136,7 @@ div.col-6.col-sm-4.col-lg-2.g-4>img:hover{
 
 .box_thumb{
     width: calc((100% / 3) - 0.19rem);
+    height: 250px;
 }
 
 .img_thumb{
