@@ -57,6 +57,8 @@ main {
     color: black;
 }
 
+
+
 .btn_color_header{
     background-color: #363636;
 }
@@ -65,6 +67,10 @@ main {
 .fa-angle-down{
     color: gray;
     font-size: 0.8rem;
+}
+
+a.nav-link:hover>i {
+    color: blue;
 }
 
 /* ------------- */
