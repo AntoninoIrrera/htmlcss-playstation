@@ -7,6 +7,34 @@ header{
     font-family: Helvetica, sans-serif;  
 }
 
+main {
+    padding-top: 7.3rem;
+}
+
+
+@media all and (min-width:576px) {
+    .padding_container{
+        padding: 0 1.5rem;
+    }
+    
+}
+
+@media all and (min-width:768px) {
+    .padding_container {
+        padding: 0 2rem;
+    }
+
+}
+
+@media all and (min-width:992px) {
+    .padding_container {
+        padding: 0 3rem;
+    }
+
+}
+
+
+    
 /* css header */
 .navbar_up{
     background-color: #000000;
@@ -34,10 +62,7 @@ header{
     color: gray;
     font-size: 0.8rem;
 }
-/* css main */
-main{
-    padding-top: 7rem;
-}
+
 /* ------------- */
 /* css section jumbo main */
 
@@ -61,7 +86,14 @@ main{
 
 .img_card{
     width: 100%;
+    padding: 0.2rem;
 }
+
+div.col-6.col-sm-4.col-lg-2.g-4>img:hover{
+    border: 2px solid blue;
+}
+
+
 
 /* ------------ */
 /* css section ps5 main */
@@ -90,6 +122,14 @@ main{
 .fa-trademark{
     font-size: 0.5rem;
     vertical-align: super;
+}
+
+div.box_thumb:hover{
+    border-bottom: 2px solid blue;
+}
+
+div.box_thumb>p{
+    height: 50px;
 }
 
 @media all and (min-width:768px) {
