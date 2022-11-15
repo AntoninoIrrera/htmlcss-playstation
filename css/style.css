@@ -11,9 +11,7 @@ main {
     padding-top: 7.3rem;
 }
 
-.btn:hover{
-    /* background-color: red; */
-}
+
 
 
 @media all and (min-width:576px) {
@@ -136,6 +134,10 @@ div.col-6.col-sm-4.col-lg-2.g-4>img:hover{
 
 div.box_thumb:hover{
     border-bottom: 2px solid blue;
+}
+
+div.box_thumb:hover>img{
+    filter: opacity(1);
 }
 
 div.box_thumb>p{
