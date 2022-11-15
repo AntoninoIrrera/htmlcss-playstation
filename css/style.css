@@ -248,7 +248,10 @@ div.box_thumb>p{
 
 .img_social{
     width: calc((100% / 2) - 0.64rem);
+    cursor: pointer;
 }
+
+
 
 @media all and (min-width:576px) {
 
