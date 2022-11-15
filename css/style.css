@@ -21,6 +21,7 @@ header{
 .fa-magnifying-glass{
     font-size: 1.5rem;
     cursor: pointer;
+    color: black;
 }
 
 .btn_color_header{
