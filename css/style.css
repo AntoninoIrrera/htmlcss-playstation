@@ -11,6 +11,10 @@ main {
     padding-top: 7.3rem;
 }
 
+.btn:hover{
+    /* background-color: red; */
+}
+
 
 @media all and (min-width:576px) {
     .padding_container{
